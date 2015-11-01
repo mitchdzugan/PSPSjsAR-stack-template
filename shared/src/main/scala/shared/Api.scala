@@ -1,0 +1,4 @@
+package shared
+
+trait Api {
+}
