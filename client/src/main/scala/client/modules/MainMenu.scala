@@ -12,7 +12,7 @@ import rx.ops._
 import client.components.Bootstrap.CommonStyle
 import client.components.Icon._
 import client.components._
-import spatutorial.client.services._
+import client.services._
 
 object MainMenu {
   // shorthand for styles
